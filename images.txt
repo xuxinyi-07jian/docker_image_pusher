@@ -1,2 +1,1 @@
-onlyoffice/documentserver
-filebrowser/filebrowser
+linuxserver/firefox
